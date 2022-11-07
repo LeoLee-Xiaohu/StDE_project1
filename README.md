@@ -71,4 +71,4 @@ After you are done, make sure to destroy your cloud infrastructure.
 ```shell
 make down # Stop docker containers on your computer
 make infra-down # type in yes after verifying the changes TF will make
-```
+```# StDE_project1
